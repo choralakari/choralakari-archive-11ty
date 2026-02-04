@@ -22,7 +22,7 @@ tags:
 
 Folder: *Main I, no. 4*  
 Name of tune used: *Lyons*  
-Composer: *attributed to Haydn, Johann Michael (1737–1806) and Kraus, Joseph Martin (1756–1792)*  
+Composers: *attributed to Haydn, Johann Michael (1737–1806) and Kraus, Joseph Martin (1756–1792)*  
 Lyricist: *Grant, Robert (1779–1838)*  
 
 ---
