@@ -77,11 +77,11 @@ export default async function(eleventyConfig) {
 		},
 		metadata: {
 			language: "en",
-			title: "Blog Title",
-			subtitle: "This is a longer description about your blog.",
-			base: "https://example.com/",
+			title: "Choral Akari Archive",
+			subtitle: "Synthesized Choral Arrangements",
+			base: "https://choralakari-archive.vercel.app/",
 			author: {
-				name: "Your Name"
+				name: "choralakari"
 			}
 		}
 	});
