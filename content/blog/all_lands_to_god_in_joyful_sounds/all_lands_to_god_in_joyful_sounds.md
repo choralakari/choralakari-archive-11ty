@@ -49,7 +49,7 @@ shall be constrained to bow.
 and unto thee shall sing;  
 to thy great Name shall songs of joy  
 with loud hosannas ring,  
-with loud hosannas ring.  
+with loud hosannas ring."  
   
 *4*  
 O come, behold the works of God,  
