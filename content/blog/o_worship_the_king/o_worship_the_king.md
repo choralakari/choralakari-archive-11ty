@@ -29,7 +29,7 @@ Lyricist: *Grant, Robert (1779–1838); written in 1833, based on Psalm 104*
 
 ### Representative Text
 
-Source used: *from [hymnary.org](https://hymnary.org/hymn/LUYH2013/2), Lift Up Your Hearts: psalms, hymns, and spiritual songs #2, but omitting the fifth verse from the arrangement here*
+Source used: *from [hymnary.org](https://hymnary.org/hymn/LUYH2013/2), Lift Up Your Hearts: psalms, hymns, and spiritual songs #2*
 
 *1*  
 O worship the King all-glorious above,  
