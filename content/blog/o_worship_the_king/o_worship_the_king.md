@@ -55,6 +55,12 @@ in you do we trust, nor find you to fail.
 Your mercies, how tender, how firm to the end,  
 our Maker, Defender, Redeemer, and Friend!  
 
+*5 (not sung here)*  
+O measureless Might, unchangeable Love,  
+whom angels delight to worship above!  
+Your ransomed creation, with glory ablaze,  
+in true adoration shall sing to your praise!  
+
 ---
 
 ### Audios and Resources
