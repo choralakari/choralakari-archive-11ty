@@ -28,7 +28,7 @@ Lyricist: *Pierpoint, Folliott Sandford (1835–1917); written in 1864, altered*
 
 ### Representative Text
 
-Source used: *from [hymnary.org](https://hymnary.org/text/for_the_beauty_of_the_earth/fulltexts), Lift Up Your Hearts: psalms, hymns, and spiritual songs #19*
+Source used: *from [hymnary.org](https://hymnary.org/hymn/LUYH2013/19), Lift Up Your Hearts: psalms, hymns, and spiritual songs #19*
 
 *1*  
 For the beauty of the earth,  
