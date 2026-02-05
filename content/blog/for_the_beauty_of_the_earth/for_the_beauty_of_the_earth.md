@@ -35,7 +35,7 @@ Sheet music, project file and MIDI:
 - [SynthV Studio project file, zipped](./arr.zip)
 - [MIDI note data](./arr.mid)
 
-Audio files (separate parts):  
+Audio files (separate parts for [Lead](./part-01.m4a), [Accompaniment I](./part-02.m4a), [Accompaniment II](./part-03.m4a) and [Bass](./part-04.m4a)):  
 <audio controls src="./part-01.m4a">
   Your browser does not support the audio element.
 </audio>
@@ -49,7 +49,7 @@ Audio files (separate parts):
   Your browser does not support the audio element.
 </audio>
 
-Audio file (all parts combined):  
+Audio file ([all parts combined](./choir.m4a)):  
 <audio controls src="./choir.m4a">
   Your browser does not support the audio element.
 </audio>
