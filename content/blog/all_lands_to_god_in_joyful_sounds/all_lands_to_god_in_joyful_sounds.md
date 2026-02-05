@@ -23,12 +23,40 @@ Folder: *Main I, no. 2*
 Name of tune used: *Miles' Lane*  
 Composer: *Shrubsole, William (1760–1806); composed in 1779*  
 Lyricist: *anonymous; from The Psalter, published in 1912*  
+Source used for representative text: *from [hymnary.org](https://hymnary.org/hymn/TH1990/438), Trinity Hymnal (Rev. ed.)‎ #438*
+
+---
+
+### Resources and Audios
+
+Sheet music, project file and MIDI:
+- [Sheet music, PDF](./score.pdf)
+- [Sheet music, MuseScore](./score.mscz)
+- [SynthV Studio project file, zipped](./arr.zip)
+- [MIDI note data](./arr.mid)
+
+Audio files (separate parts):  
+<audio controls src="./part-01.m4a">
+  Your browser does not support the audio element.
+</audio>
+<audio controls src="./part-02.m4a">
+  Your browser does not support the audio element.
+</audio>
+<audio controls src="./part-03.m4a">
+  Your browser does not support the audio element.
+</audio>
+<audio controls src="./part-04.m4a">
+  Your browser does not support the audio element.
+</audio>
+
+Audio file (all parts combined):  
+<audio controls src="./choir.m4a">
+  Your browser does not support the audio element.
+</audio>
 
 ---
 
 ### Representative Text
-
-Source used: *from [hymnary.org](https://hymnary.org/hymn/TH1990/438), Trinity Hymnal (Rev. ed.)‎ #438*
 
 *1*  
 All lands, to God in joyful sounds  
@@ -71,32 +99,3 @@ his eyes the nations try;
 let not the proud, rebellious ones  
 exalt themselves on high,  
 exalt themselves on high.  
-
----
-
-### Audios and Resources
-
-Audio file (all parts combined):  
-<audio controls src="./choir.m4a">
-  Your browser does not support the audio element.
-</audio>
-
-Audio files (separate parts):  
-<audio controls src="./part-01.m4a">
-  Your browser does not support the audio element.
-</audio>
-<audio controls src="./part-02.m4a">
-  Your browser does not support the audio element.
-</audio>
-<audio controls src="./part-03.m4a">
-  Your browser does not support the audio element.
-</audio>
-<audio controls src="./part-04.m4a">
-  Your browser does not support the audio element.
-</audio>
-
-Other files:
-- [Sheet music, PDF](./score.pdf)
-- [Sheet music, MuseScore](./score.mscz)
-- [SynthV Studio project file, zipped](./arr.zip)
-- [MIDI note data](./arr.mid)

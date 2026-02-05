@@ -24,12 +24,40 @@ Folder: *Main I, no. 4*
 Name of tune used: *Lyons*  
 Composers: *attributed to Haydn, Johann Michael (1737–1806) and Kraus, Joseph Martin (1756–1792)*  
 Lyricist: *Grant, Robert (1779–1838); written in 1833, based on Psalm 104*  
+Source used for representative text: *from [hymnary.org](https://hymnary.org/hymn/LUYH2013/2), Lift Up Your Hearts: psalms, hymns, and spiritual songs #2*
+
+---
+
+### Resources and Audios
+
+Sheet music, project file and MIDI:
+- [Sheet music, PDF](./score.pdf)
+- [Sheet music, MuseScore](./score.mscz)
+- [SynthV Studio project file, zipped](./arr.zip)
+- [MIDI note data](./arr.mid)
+
+Audio files (separate parts):  
+<audio controls src="./part-01.m4a">
+  Your browser does not support the audio element.
+</audio>
+<audio controls src="./part-02.m4a">
+  Your browser does not support the audio element.
+</audio>
+<audio controls src="./part-03.m4a">
+  Your browser does not support the audio element.
+</audio>
+<audio controls src="./part-04.m4a">
+  Your browser does not support the audio element.
+</audio>
+
+Audio file (all parts combined):  
+<audio controls src="./choir.m4a">
+  Your browser does not support the audio element.
+</audio>
 
 ---
 
 ### Representative Text
-
-Source used: *from [hymnary.org](https://hymnary.org/hymn/LUYH2013/2), Lift Up Your Hearts: psalms, hymns, and spiritual songs #2*
 
 *1*  
 O worship the King all-glorious above,  
@@ -60,32 +88,3 @@ O measureless Might, unchangeable Love,
 whom angels delight to worship above!  
 Your ransomed creation, with glory ablaze,  
 in true adoration shall sing to your praise!  
-
----
-
-### Audios and Resources
-
-Audio file (all parts combined):  
-<audio controls src="./choir.m4a">
-  Your browser does not support the audio element.
-</audio>
-
-Audio files (separate parts):  
-<audio controls src="./part-01.m4a">
-  Your browser does not support the audio element.
-</audio>
-<audio controls src="./part-02.m4a">
-  Your browser does not support the audio element.
-</audio>
-<audio controls src="./part-03.m4a">
-  Your browser does not support the audio element.
-</audio>
-<audio controls src="./part-04.m4a">
-  Your browser does not support the audio element.
-</audio>
-
-Other files:
-- [Sheet music, PDF](./score.pdf)
-- [Sheet music, MuseScore](./score.mscz)
-- [SynthV Studio project file, zipped](./arr.zip)
-- [MIDI note data](./arr.mid)

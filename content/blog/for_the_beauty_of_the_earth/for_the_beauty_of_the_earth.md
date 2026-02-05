@@ -23,12 +23,40 @@ Folder: *Main I, no. 1*
 Name of tune used: *Dix*  
 Composer: *Kocher, Conrad (1786–1872); composed in 1838*  
 Lyricist: *Pierpoint, Folliott Sandford (1835–1917); written in 1864, altered*  
+Source used for representative text: *from [hymnary.org](https://hymnary.org/hymn/LUYH2013/19), Lift Up Your Hearts: psalms, hymns, and spiritual songs #19*
+
+---
+
+### Resources and Audios
+
+Sheet music, project file and MIDI:
+- [Sheet music, PDF](./score.pdf)
+- [Sheet music, MuseScore](./score.mscz)
+- [SynthV Studio project file, zipped](./arr.zip)
+- [MIDI note data](./arr.mid)
+
+Audio files (separate parts):  
+<audio controls src="./part-01.m4a">
+  Your browser does not support the audio element.
+</audio>
+<audio controls src="./part-02.m4a">
+  Your browser does not support the audio element.
+</audio>
+<audio controls src="./part-03.m4a">
+  Your browser does not support the audio element.
+</audio>
+<audio controls src="./part-04.m4a">
+  Your browser does not support the audio element.
+</audio>
+
+Audio file (all parts combined):  
+<audio controls src="./choir.m4a">
+  Your browser does not support the audio element.
+</audio>
 
 ---
 
 ### Representative Text
-
-Source used: *from [hymnary.org](https://hymnary.org/hymn/LUYH2013/19), Lift Up Your Hearts: psalms, hymns, and spiritual songs #19*
 
 *1*  
 For the beauty of the earth,  
@@ -63,32 +91,3 @@ For yourself, best gift divine,
 to the world so freely given,  
 agent of God’s grand design:  
 peace on earth and joy in heaven. *[Refrain]*
-
----
-
-### Audios and Resources
-
-Audio file (all parts combined):  
-<audio controls src="./choir.m4a">
-  Your browser does not support the audio element.
-</audio>
-
-Audio files (separate parts):  
-<audio controls src="./part-01.m4a">
-  Your browser does not support the audio element.
-</audio>
-<audio controls src="./part-02.m4a">
-  Your browser does not support the audio element.
-</audio>
-<audio controls src="./part-03.m4a">
-  Your browser does not support the audio element.
-</audio>
-<audio controls src="./part-04.m4a">
-  Your browser does not support the audio element.
-</audio>
-
-Other files:
-- [Sheet music, PDF](./score.pdf)
-- [Sheet music, MuseScore](./score.mscz)
-- [SynthV Studio project file, zipped](./arr.zip)
-- [MIDI note data](./arr.mid)
