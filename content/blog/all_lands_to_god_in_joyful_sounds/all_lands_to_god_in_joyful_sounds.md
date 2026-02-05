@@ -1,6 +1,6 @@
 ---
 title: All Lands, to God in Joyful Sounds
-description: Synthesized choral arrangement with Synthesizer V Studio I and RVC
+description: Synthesized choral arrangement made with Synthesizer V Studio I and RVC
 date: 2026-02-04
 tags:
   - 1_ folder- main i
@@ -8,7 +8,7 @@ tags:
   - 2_ copyright- public domain_ tune
   - 2_ instrumentation- four-part choir
   - 2_ language- english
-  - 2_ key- g or em
+  - 2_ key- g major or e minor
   - 3_ text title- all lands to god in joyful sounds
   - 3_ tune name- miles lane
   - 4_ poetic meter- common meter with a repeat

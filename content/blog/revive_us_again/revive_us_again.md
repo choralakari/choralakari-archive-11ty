@@ -1,6 +1,6 @@
 ---
 title: Revive Us Again
-description: Synthesized choral arrangement with Synthesizer V Studio I and RVC
+description: Synthesized choral arrangement made with Synthesizer V Studio I and RVC
 date: 2026-02-05
 tags:
   - 1_ folder- main i
@@ -8,7 +8,7 @@ tags:
   - 2_ copyright- public domain_ tune
   - 2_ instrumentation- four-part choir
   - 2_ language- english
-  - 2_ key- eb or cm
+  - 2_ key- e flat major or c minor
   - 3_ text title- revive us again
   - 3_ tune name- revive us again
   - 4_ poetic meter- 11-11 amphibrachic with refrain

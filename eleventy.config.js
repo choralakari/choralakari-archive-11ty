@@ -78,7 +78,7 @@ export default async function(eleventyConfig) {
 		metadata: {
 			language: "en",
 			title: "Choral Akari Archive",
-			subtitle: "Synthesized Choral Arrangements with Synthesizer V Studio I and RVC",
+			subtitle: "Synthesized Choral Arrangements made with Synthesizer V Studio I and RVC",
 			base: "https://choralakari-archive.vercel.app/",
 			author: {
 				name: "choralakari"

@@ -1,6 +1,6 @@
 ---
 title: For the Beauty of the Earth
-description: Synthesized choral arrangement with Synthesizer V Studio I and RVC
+description: Synthesized choral arrangement made with Synthesizer V Studio I and RVC
 date: 2026-02-04
 tags:
   - 1_ folder- main i
@@ -8,7 +8,7 @@ tags:
   - 2_ copyright- public domain_ tune
   - 2_ instrumentation- four-part choir
   - 2_ language- english
-  - 2_ key- gb or ebm
+  - 2_ key- g flat major or e flat minor
   - 3_ text title- for the beauty of the earth
   - 3_ tune name- dix
   - 4_ poetic meter- 7-7-7-7-7-7 trochaic

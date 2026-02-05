@@ -7,7 +7,7 @@ const eleventyNavigation = {
 
 # About
 
-A collection of synthesized choral arrangements with Synthesizer V Studio I and RVC.  
+A collection of synthesized choral arrangements made with Synthesizer V Studio I and RVC.  
 Songs are mostly traditional Christian hymns.  
 
 ---

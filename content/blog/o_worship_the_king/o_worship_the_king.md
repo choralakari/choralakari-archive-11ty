@@ -1,6 +1,6 @@
 ---
 title: O Worship the King
-description: Synthesized choral arrangement with Synthesizer V Studio I and RVC
+description: Synthesized choral arrangement made with Synthesizer V Studio I and RVC
 date: 2026-02-05
 tags:
   - 1_ folder- main i
@@ -8,7 +8,7 @@ tags:
   - 2_ copyright- public domain_ tune
   - 2_ instrumentation- four-part choir
   - 2_ language- english
-  - 2_ key- f or dm
+  - 2_ key- f major or d minor
   - 3_ text title- o worship the king
   - 3_ tune name- lyons
   - 4_ poetic meter- 5-5-5-5-6-5-6-5 amphibrachic
