@@ -31,6 +31,7 @@ Source used for representative text: *from [hymnary.org](https://hymnary.org/hym
 ### Resources and Audios
 
 Sheet music, project file and MIDI:
+
 - [Sheet music, PDF](./score.pdf)
 - [Sheet music, MuseScore](./score.mscz)
 - [SynthV Studio project file, zipped](./arr.zip)
