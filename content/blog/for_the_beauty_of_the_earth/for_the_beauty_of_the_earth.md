@@ -17,7 +17,7 @@ tags:
 
 ---
 
-### Hymn Description
+### Hymn Information
 
 Folder: *Main I, no. 1*  
 Name of tune used: *Dix*  

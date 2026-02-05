@@ -18,7 +18,7 @@ tags:
 
 ---
 
-### Hymn Description
+### Hymn Information
 
 Folder: *Main I, no. 4*  
 Name of tune used: *Lyons*  

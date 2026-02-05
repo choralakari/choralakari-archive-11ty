@@ -17,7 +17,7 @@ tags:
 
 ---
 
-### Hymn Description
+### Hymn Information
 
 Folder: *Main I, no. 2*  
 Name of tune used: *Miles' Lane*  
