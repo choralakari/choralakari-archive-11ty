@@ -3,7 +3,7 @@ title: All Lands, to God in Joyful Sounds
 description: Synthesized choral arrangement made with Synthesizer V Studio I and RVC
 date: 2026-02-04
 tags:
-  - 1_ folder- main i
+  - 1_ folder- main 1
   - 2_ copyright- public domain_ text
   - 2_ copyright- public domain_ tune
   - 2_ instrumentation- four-part choir
@@ -12,7 +12,6 @@ tags:
   - 3_ text title- all lands to god in joyful sounds
   - 3_ tune name- miles lane
   - 4_ poetic meter- common meter with a repeat
-
 ---
 
 ---
@@ -20,7 +19,7 @@ tags:
 ### Hymn Information
 
 Folder: *Main I, no. 2*  
-Name of tune used: *Miles' Lane*  
+Name of tune used: *'Miles’ Lane'*  
 Composer: *Shrubsole, William (1760–1806); composed in 1779*  
 Lyricist: *anonymous; from The Psalter, published in 1912*  
 Source used for representative text: *from [hymnary.org](https://hymnary.org/hymn/TH1990/438), Trinity Hymnal (Rev. ed.) #438*

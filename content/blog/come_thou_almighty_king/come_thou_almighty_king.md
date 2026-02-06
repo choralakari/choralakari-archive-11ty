@@ -3,16 +3,15 @@ title: Come, Thou Almighty King
 description: Synthesized choral arrangement made with Synthesizer V Studio I and RVC
 date: 2026-02-05
 tags:
-  - 1_ folder- main i
+  - 1_ folder- main 1
   - 2_ copyright- public domain_ text
   - 2_ copyright- public domain_ tune
   - 2_ instrumentation- four-part choir
   - 2_ language- english
   - 2_ key- e major or c sharp minor
   - 3_ text title- come thou almighty king
-  - 3_ tune name- italian hymn
+  - 3_ tune name- italian hymn or moscow or trinity
   - 4_ poetic meter- 6-6-4-6-6-6-4 dactylic
-
 ---
 
 ---
@@ -20,7 +19,7 @@ tags:
 ### Hymn Information
 
 Folder: *Main I, no. 29*  
-Name of tune used: *Italian Hymn*  
+Name of tune used: *'Italian Hymn' or 'Moscow' or 'Trinity'*  
 Composer: *Giardini, Felice (1716–1796); composed in 1769*  
 Lyricist: *anonymous; written circa 1757*  
 Source used for representative text: *from [hymnary.org](https://hymnary.org/hymn/OLOF2018/577), One Lord, One Faith, One Baptism: an African American ecumenical hymnal #577*

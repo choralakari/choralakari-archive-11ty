@@ -3,7 +3,7 @@ title: O Worship the King
 description: Synthesized choral arrangement made with Synthesizer V Studio I and RVC
 date: 2026-02-05
 tags:
-  - 1_ folder- main i
+  - 1_ folder- main 1
   - 2_ copyright- public domain_ text
   - 2_ copyright- public domain_ tune
   - 2_ instrumentation- four-part choir
@@ -13,7 +13,6 @@ tags:
   - 3_ tune name- lyons
   - 4_ poetic meter- 5-5-5-5-6-5-6-5 amphibrachic
   - 4_ poetic meter- 10-10 alternating amphibrachs and iambs and then 11-11 amphibrachic
-
 ---
 
 ---
@@ -21,7 +20,7 @@ tags:
 ### Hymn Information
 
 Folder: *Main I, no. 4*  
-Name of tune used: *Lyons*  
+Name of tune used: *'Lyons'*  
 Composers: *attributed to Haydn, Johann Michael (1737–1806) and Kraus, Joseph Martin (1756–1792)*  
 Lyricist: *Grant, Robert (1779–1838); written in 1833, based on Psalm 104*  
 Source used for representative text: *from [hymnary.org](https://hymnary.org/hymn/LUYH2013/2), Lift Up Your Hearts: psalms, hymns, and spiritual songs #2*

@@ -3,7 +3,7 @@ title: Revive Us Again
 description: Synthesized choral arrangement made with Synthesizer V Studio I and RVC
 date: 2026-02-05
 tags:
-  - 1_ folder- main i
+  - 1_ folder- main 1
   - 2_ copyright- public domain_ text
   - 2_ copyright- public domain_ tune
   - 2_ instrumentation- four-part choir
@@ -12,7 +12,6 @@ tags:
   - 3_ text title- revive us again
   - 3_ tune name- revive us again
   - 4_ poetic meter- 11-11 amphibrachic with refrain
-
 ---
 
 ---
@@ -20,7 +19,7 @@ tags:
 ### Hymn Information
 
 Folder: *Main I, no. 8*  
-Name of tune used: *Revive Us Again*  
+Name of tune used: *'Revive Us Again'*  
 Composer: *Husband, John Jenkins (1760–1825); composed in 1815*  
 Lyricist: *Mackay, William Paton (1839–1885); written in 1863*  
 Sources used for representative text:
