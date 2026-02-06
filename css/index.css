@@ -6,7 +6,7 @@
 
 /* Theme colors */
 :root {
-	--color-gray-20: #888;
+	--color-gray-20: #777;
 	--color-gray-50: #555;
 	--color-gray-90: #111;
 
@@ -31,7 +31,7 @@
 		--text-color-link-active: #65f;
 		--text-color-link-visited: #d9f;
 
-		--background-color: #115;
+		--background-color: #216;
 	}
 }
 
