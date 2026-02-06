@@ -19,7 +19,7 @@ tags:
 ### Hymn Information
 
 Folder: *Main I, no. 29*  
-Name of tune used: *'Italian Hymn' or 'Moscow' or 'Trinity'*  
+Tune used, name: *'Italian Hymn' or 'Moscow' or 'Trinity'*  
 Composer: *Giardini, Felice (1716–1796); composed in 1769*  
 Lyricist: *anonymous; written circa 1757*  
 Source used for representative text: *from [hymnary.org](https://hymnary.org/hymn/OLOF2018/577), One Lord, One Faith, One Baptism: an African American ecumenical hymnal #577*

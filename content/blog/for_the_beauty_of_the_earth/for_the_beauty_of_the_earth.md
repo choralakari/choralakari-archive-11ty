@@ -19,7 +19,7 @@ tags:
 ### Hymn Information
 
 Folder: *Main I, no. 1*  
-Name of tune used: *'Dix' or 'Treuer Heiland, wir sind hier'*  
+Tune used, name: *'Dix' or 'Treuer Heiland, wir sind hier'*  
 Composer: *Kocher, Conrad (1786–1872); composed in 1838*  
 Lyricist: *Pierpoint, Folliott Sandford (1835–1917); written in 1864, altered*  
 Source used for representative text: *from [hymnary.org](https://hymnary.org/hymn/LUYH2013/19), Lift Up Your Hearts: psalms, hymns, and spiritual songs #19*

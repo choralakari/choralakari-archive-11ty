@@ -19,7 +19,7 @@ tags:
 ### Hymn Information
 
 Folder: *Main I, no. 2*  
-Name of tune used: *'Miles’ Lane'*  
+Tune used, name: *'Miles’ Lane'*  
 Composer: *Shrubsole, William (1760–1806); composed in 1779*  
 Lyricist: *anonymous; from The Psalter, published in 1912*  
 Source used for representative text: *from [hymnary.org](https://hymnary.org/hymn/TH1990/438), Trinity Hymnal (Rev. ed.) #438*

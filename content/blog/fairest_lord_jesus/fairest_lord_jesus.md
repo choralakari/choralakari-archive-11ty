@@ -19,7 +19,7 @@ tags:
 ### Hymn Information
 
 Folder: *Main III, no. 36*  
-Name of tune used: *'Crusaders’ Hymn' or 'St. Elizabeth'*  
+Tune used, name: *'Crusaders’ Hymn' or 'St. Elizabeth'*  
 Composer: *Silesian folk melody; Schlesische Volkslieder, published in Leipzig in 1842*  
 Lyricists:
 

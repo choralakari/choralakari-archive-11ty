@@ -12,7 +12,7 @@ Songs are mostly traditional Christian hymns.
 
 ---
 
-All of my choral arrangements and other resources are available [here on Google Drive](https://drive.google.com/drive/folders/1nESecS1zvlXZ4XFU2lk9q0EWXgwYFf1v).  
+All of my choral arrangements and other resources are available [here on Google Drive](https://drive.google.com/drive/folders/1nESecS1zvlXZ4XFU2lk9q0EWXgwYFf1v), though old choral arrangements exist, with different voice setups, [on Google Drive](https://drive.google.com/drive/folders/1p9GinOItZsilPs28ded7VRMp_iCXhU7c), archived on [Internet Archive](https://archive.org/details/synthesized-choral-arrangements-20250210-t-010813).  
 The voice model used for the melody/lead of every choral arrangements is available [here on HuggingFace](https://huggingface.co/1358Adrian/rvc_temp_zipped/resolve/main/akari_kizuna_vocaloid_v4_raw_test_3_e256_s2304.zip?download=true). Dataset used for that model is found [in a zipped file](https://archive.org/download/raw-vocaloid/V4_KIZUNA_AKARI.zip) [here on archive.org](https://archive.org/details/raw-vocaloid).  
 Synthesizer V Studio I editor and voicebanks are available [here on synthv.me](https://synthv.me/), requiring [obsidian.exe](/others/obsidian_VST.zip) for the editor to work.
 

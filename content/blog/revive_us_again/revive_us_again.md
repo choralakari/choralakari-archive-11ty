@@ -19,7 +19,7 @@ tags:
 ### Hymn Information
 
 Folder: *Main I, no. 8*  
-Name of tune used: *'Revive Us Again'*  
+Tune used, name: *'Revive Us Again'*  
 Composer: *Husband, John Jenkins (1760–1825); composed in 1815*  
 Lyricist: *Mackay, William Paton (1839–1885); written in 1863*  
 Sources used for representative text:

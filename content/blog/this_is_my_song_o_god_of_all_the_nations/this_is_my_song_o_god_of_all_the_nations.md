@@ -19,7 +19,7 @@ tags:
 ### Hymn Information
 
 Folder: *Main III, no. 52*  
-Name of tune used: *'Finlandia'*  
+Tune used, name: *'Finlandia'*  
 Composer: *Sibelius, Jean (1865–1957); composed in 1899*  
 Lyricists:
 
