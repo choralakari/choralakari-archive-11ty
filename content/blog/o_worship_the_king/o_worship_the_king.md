@@ -12,7 +12,6 @@ tags:
   - 3_ text title- o worship the king
   - 3_ tune name- lyons
   - 4_ poetic meter- 5-5-5-5-6-5-6-5 amphibrachic
-  - 4_ poetic meter- 10-10 alternating amphibrachs and iambs and then 11-11 amphibrachic
 ---
 
 ---
