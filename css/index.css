@@ -8,9 +8,9 @@
 :root {
 	--color-gray-20: #888;
 	--color-gray-50: #555;
-	--color-gray-90: #222;
+	--color-gray-90: #111;
 
-	--background-color: #fc8;
+	--background-color: #fd9;
 
 	--text-color: var(--color-gray-90);
 	--text-color-link: #147;

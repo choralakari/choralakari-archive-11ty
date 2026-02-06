@@ -23,8 +23,9 @@ Name of tune used: *'Revive Us Again'*
 Composer: *Husband, John Jenkins (1760–1825); composed in 1815*  
 Lyricist: *Mackay, William Paton (1839–1885); written in 1863*  
 Sources used for representative text:
-- *from [hymnary.org](https://hymnary.org/hymn/VT2020/91), Voices Together #91 (for verses 1–3 and 5)*  
-- *from [hymnary.org](https://hymnary.org/hymn/OLOF2018/431), One Lord, One Faith, One Baptism: an African American ecumenical hymnal #431 (for verse 4)*  
+
+- *from [hymnary.org](https://hymnary.org/hymn/VT2020/91), Voices Together #91 (for stanzas 1–3 and 5)*  
+- *from [hymnary.org](https://hymnary.org/hymn/OLOF2018/431), One Lord, One Faith, One Baptism: an African American ecumenical hymnal #431 (for stanza 4)*  
 
 ---
 
