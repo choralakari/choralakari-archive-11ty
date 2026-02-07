@@ -20,8 +20,8 @@ tags:
 
 Folder: *Main IV, no. 2*  
 Tune used, name: *'Wellesley'*  
-Composer: *Tourjée, Lizzie Shove (1858-1913); composed in 1877*  
-Lyricist: *Faber, Frederick William (1814-1863); written in 1862*  
+Composer: *Tourjée, Lizzie Shove (1858–1913); composed circa 1877*  
+Lyricist: *Faber, Frederick William (1814–1863); written in 1854*  
 Source used for representative text: *from [hymnary.org](https://hymnary.org/hymn/VT2020/156), Voices Together #156*
 
 ---
