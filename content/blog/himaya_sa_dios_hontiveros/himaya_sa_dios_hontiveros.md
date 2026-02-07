@@ -53,9 +53,9 @@ Audio file ([all parts combined](./voice_and_organ.m4a)):
 
 ### Representative Text
 
-*Refrain*  
+*Refrain:*  
 Himaya sa Dios, himaya sa Dios,  
-himaya sa Dios sa kahitas-an. *[Repeat only in the beginning]*  
+himaya sa Dios sa kahitas-an. *[Repeat only after the intro]*  
   
 *1*  
 Ug kadait dinhi sa yuta, ug kadait dinhi sa yuta  
