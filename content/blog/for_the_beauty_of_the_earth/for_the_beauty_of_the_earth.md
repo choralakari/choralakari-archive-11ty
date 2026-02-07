@@ -11,7 +11,7 @@ tags:
   - 2_ key- g flat major or e flat minor
   - 3_ text title- for the beauty of the earth
   - 3_ tune name- dix or treuer heiland wir sind hier
-  - 4_ poetic meter- 7-7-7-7-7-7 trochaic
+  - 4_ poetic meter- 7-7-7-7 trochaic with 7-7 trochaic refrain
 ---
 
 ---

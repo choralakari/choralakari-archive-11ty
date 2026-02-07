@@ -20,7 +20,7 @@ tags:
 
 Folder: *Main III, no. 1*  
 Tune used, name: *'Angel Voices (Monk)'*  
-Composer: *Monk, Edwin George (1819–1900); written in 1861*  
+Composer: *Monk, Edwin George (1819–1900); composed in 1861*  
 Lyricist: *Pott, Francis (1832–1909); written in 1861*  
 Source used for representative text: *from [hymnary.org](https://hymnary.org/hymn/AM2013/589), Ancient and Modern: hymns and songs for refreshing worship #589*
 
