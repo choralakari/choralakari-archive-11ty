@@ -26,7 +26,7 @@ Lyricists:
   - *Stone, Lloyd (1912–1993); written in 1934 (stanzas 1 and 2)*  
   - *Harkness, Georgia Elma (1891–1974); written in 1964 (stanza 3)*  
 
-Copyright (text): *© 1934, 1962, Lorenz Publishing Co. (stanzas 1 and 2); © 1964 Lorenz Publishing Co. (stanza 3)*  
+Copyright (text): *© 1934, 1962, Lorenz Publishing Co. (stanzas 1 and 2); © 1964, Lorenz Publishing Co. (stanza 3)*  
 Source used for representative text: *from [yourdailypoem.com](https://www.yourdailypoem.com/listpoem.jsp?poem_id=497)*
 
 ---
