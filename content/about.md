@@ -18,7 +18,7 @@ The Synthesizer V Studio I editor and voice libraries are available [here on syn
 
 ---
 
-### About Eterna Archive
+### About [Eterna Archive](../tags/2-instrumentation-voice-and-organ/)
 
 When a piece of music is too intricate to adapt for a custom four-part choir, its arrangement will be in a format for solo voice and chamber pipe organ using Synthesizer V Studio I and [Organteq 2 Trial](https://www.modartt.com/organteq_overview).  
 Eterna Archive is a sub-project of Choral Akari Archive that gathers my voice and organ renditions, and it also mainly features Christian music.  
