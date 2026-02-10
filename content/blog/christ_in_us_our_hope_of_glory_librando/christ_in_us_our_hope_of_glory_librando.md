@@ -57,7 +57,7 @@ Your word unlocked the hardness of our hearts
 and opened our eyes, that we may see you  
 hidden in the broken bread.  
   
-*Refrain:*  
+*Chorus:*  
 Lord, You laid down your life, as bread and wine we see,  
 gave strength to our hearts, and made us shine with glee.  
 When we eat the bread and drink the cup of wine,  
@@ -69,10 +69,10 @@ and You rekindled our hope,
 and led our hearts to yearn for Your love,  
 for in You is our hope of glory. *[Refrain]*  
   
-*3*  
+*Bridge:*  
 Through your own flesh, now made living,  
 and by the Spirit made life-giving,  
 You offer life to us.  
 and as you sweat became like drops of blood  
 falling down upon the ground,  
-You shed Your blood for us. Amen. *[Refrain, then repeat last line]*
+You shed Your blood for us. Amen. *[Chorus, then repeat last line]*
