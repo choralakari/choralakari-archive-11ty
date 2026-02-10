@@ -17,7 +17,7 @@ tags:
 
 ---
 
-### Hymn Information
+### Song Information
 
 Folder: *Voice and Organ Renditions (Eterna Archive), Songs from the Philippines, no. 7*  
 Tune used, name: *'Christ in Us, Our Hope of Glory (Librando)'*  
