@@ -67,7 +67,7 @@ we believe that Christ in us, is our hope of glory.
 You brought a ray of light,  
 and You rekindled our hope,  
 and led our hearts to yearn for Your love,  
-for in You is our hope of glory. *[Refrain]*  
+for in You is our hope of glory. *[Chorus]*  
   
 *Bridge:*  
 Through your own flesh, now made living,  
