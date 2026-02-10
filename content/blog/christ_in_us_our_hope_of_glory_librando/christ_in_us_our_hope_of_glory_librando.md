@@ -72,7 +72,7 @@ for in You is our hope of glory. *[Chorus]*
 *Bridge:*  
 Through your own flesh, now made living,  
 and by the Spirit made life-giving,  
-You offer life to us.  
+You offer life to us,  
 and as you sweat became like drops of blood  
 falling down upon the ground,  
 You shed Your blood for us. Amen. *[Chorus, then repeat last line]*
