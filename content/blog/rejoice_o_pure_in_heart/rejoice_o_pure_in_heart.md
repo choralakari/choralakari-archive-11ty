@@ -1,5 +1,5 @@
 ---
-title: Rejoice, Ye Pure in Heart
+title: Rejoice, O Pure in Heart
 description: Synthesized choral arrangement made with Synthesizer V Studio I and RVC
 date: 2026-02-12
 tags:
