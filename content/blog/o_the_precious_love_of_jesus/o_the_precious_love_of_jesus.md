@@ -1,5 +1,5 @@
 ---
-title: O, the Precious Love of Jesus
+title: O the Precious Love of Jesus
 description: Synthesized choral arrangement made with Synthesizer V Studio I and RVC
 date: 2026-02-13
 tags:
