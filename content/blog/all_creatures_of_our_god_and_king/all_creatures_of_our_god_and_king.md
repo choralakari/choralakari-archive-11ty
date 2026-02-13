@@ -21,7 +21,7 @@ tags:
 Folder: *Main III, no. 27*  
 Tune used, name: *'Lasst uns erfreuen'*  
 Composer: *anonymous; from Geistliche Kirchengesäng, published in Köln in 1623*  
-Lyricist: *Francis, of Assisi, Saint (1182–1226); written circa 1225*  
+Lyricist: *Francis, of Assisi, Saint (1182–1226); written circa 1225; translation by Draper, William Henry (1855–1933) in 1925*  
 Source used for representative text: *from [hymnary.org](https://hymnary.org/hymn/HDDW2024/309), Hymns and Devotions for Daily Worship #309*
 
 ---
