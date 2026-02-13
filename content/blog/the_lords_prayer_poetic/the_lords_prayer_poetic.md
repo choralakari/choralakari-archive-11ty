@@ -10,7 +10,7 @@ tags:
   - 2_ language- english
   - 2_ key- g major or e minor
   - 2_ song or hymn info- research in progress
-  - 3_ text title- the lord_s prayer poetic
+  - 3_ text title- the lord_s prayer_ poetic
   - 3_ tune name- erfyniad
   - 4_ poetic meter- 10-10-10-10 iambic but stressed every first syllable on lines 1 and 3
 ---
