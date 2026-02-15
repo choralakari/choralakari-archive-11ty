@@ -23,7 +23,7 @@ Folder: *Voice and Organ Renditions (Eterna Archive), Songs from the Philippines
 Tune used, name: *'Papuri sa Diyos (Hontiveros)'*  
 Composer: *Hontiveros, Eduardo Jose Pardo (1923–2008)*  
 Lyricist: *from the liturgy (Luke 2:14; John 1:29; Eph. 1:20-21); alterer of the Cebuano Gloria unknown*  
-Copyright (tune): *from the album, Mga Awitin sa Misang Pilipino, © 1999, Bukas Palad Music Ministry*  
+Copyright (tune): *from the album, Mga Awitin sa Misang Pilipino, © 1999, Jesuit Music Ministry of Jesuit Communications Foundation, Inc.*  
 Copyright (text): *research in progress*  
 Source used for representative text: *from [this attached photo taken in Getafe, Bohol](./IMG_20260102_075915.jpg), which is a text and chords printed on a white folder previously owned by a church organist of Getafe, Frankie R. Lagunay*
 
