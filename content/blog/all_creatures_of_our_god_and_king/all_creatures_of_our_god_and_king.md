@@ -1,5 +1,5 @@
 ---
-title: All Creatures of our God and King
+title: All Creatures of Our God and King
 description: Synthesized choral arrangement made with Synthesizer V Studio I and RVC
 date: 2026-02-06
 tags:
