@@ -1,5 +1,5 @@
 ---
-title: Soul of my Savior, sanctify my breast
+title: Soul of My Savior, Sanctify My Breast
 description: Synthesized choral arrangement made with Synthesizer V Studio I and RVC
 date: 2026-02-25
 tags:
