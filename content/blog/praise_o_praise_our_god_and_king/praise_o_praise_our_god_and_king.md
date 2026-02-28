@@ -20,7 +20,7 @@ tags:
 
 Folder: *Sung in the Philippines and Original Tunes, no. 1*  
 Tune used, name: *'Original tune (543517615)'*  
-Composer: *original tune; composed in January 2022 (week 4)*  
+Composer: *original tune of mine; composed in January 2022 (week 4)*  
 Lyricist: *Milton, John (1608–1674), written in 1623; adapted by Baker, Henry Williams (1821–1877) in 1861*  
 Source used for representative text: *from [hymnary.org](https://hymnary.org/hymn/AM2013/286), Ancient and Modern: hymns and songs for refreshing worship #286*
 
