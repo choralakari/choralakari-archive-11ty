@@ -20,7 +20,7 @@ tags:
 
 Folder: *Sung in the Philippines and Original Tunes, no. 2*  
 Tune used, name: *'Great Amen (WYD 1995)'*  
-Composer: *Francisco, Manuel V. (b. 1965); [biography](https://hymnology.hymnsam.co.uk/m/manuel-francisco)*  
+Composer: *Francisco, Manuel V. (b. 1965); [biography](https://hymnology.hymnsam.co.uk/m/manuel-francisco); adapted by myself*  
 Lyricist: *Lyte, Henry Francis (1793–1847)*  
 Copyright (tune): *from the scorebook, The Best of Himig Heswita, © 2000, Jesuit Music Ministry of Jesuit Communications Foundation, Inc.*  
 Source used for representative text: *from [hymnary.org](https://hymnary.org/hymn/CYBER/4230), The Cyber Hymnal #4230*
