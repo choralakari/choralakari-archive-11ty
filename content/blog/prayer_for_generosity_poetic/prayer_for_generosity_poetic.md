@@ -1,5 +1,5 @@
 ---
-title: Prayer for Generosity (attr. St. Ignatius of Loyola)
+title: Prayer for Generosity (attr. St. Ignatius of Loyola; poetic)
 description: Synthesized choral arrangement made with Synthesizer V Studio I and RVC
 date: 2026-03-05
 tags:
@@ -9,7 +9,7 @@ tags:
   - 2_ instrumentation- four-part choir
   - 2_ language- english
   - 2_ key- d major or b minor
-  - 3_ text title- prayer for generosity
+  - 3_ text title- prayer for generosity_ poetic
   - 3_ tune name- arlington
   - 4_ poetic meter- 4-4-6-4-4-6 iambic
 ---
