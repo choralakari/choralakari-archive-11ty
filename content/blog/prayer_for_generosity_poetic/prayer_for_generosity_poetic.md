@@ -24,8 +24,8 @@ Composer: *Arne, Thomas Augustine (1710–1778); composed in 1762*
 Lyricist: *attributed to Ignatius, of Loyola, Saint (1491–1556); poetic adaptation by myself with AI assistance, free to alter or revise for everyone, written on August 1, 2025*  
 Sources used for representative text:  
 
-  - from [ignatianspirituality.com](https://www.ignatianspirituality.com/teach-me-to-be-generous/)
-  - from [this web page](https://choralakari.github.io/choralakari-archive/others/ai_assisted_poems)
+  - *from [ignatianspirituality.com](https://www.ignatianspirituality.com/teach-me-to-be-generous/)*
+  - *from [this web page](https://choralakari.github.io/choralakari-archive/others/ai_assisted_poems)*
 
 ---
 
