@@ -21,7 +21,7 @@ tags:
 Folder: *Main III, no. 18*  
 Tune used, name: *'Boylston'*  
 Composer: *Mason, Lowell (1792–1872); composed in 1832*  
-Lyricist: *Wesley, Charles (1707–1788); written in 1762*  
+Lyricist: *Wesley, Charles (1707–1788); written in 1762, altered*  
 Source used for representative text: *from [hymnary.org](https://hymnary.org/hymn/PHLG2023/391), Psalms and Hymns to the Living God #391*
 
 ---

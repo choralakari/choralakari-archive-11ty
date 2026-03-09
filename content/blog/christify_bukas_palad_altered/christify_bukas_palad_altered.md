@@ -21,7 +21,7 @@ tags:
 Folder: *Sung in the Philippines and Original Tunes, no. 39*  
 Tune used, name: *'Original tune (345556543)'*  
 Composer: *original tune of mine; composed on August 21, 2025*  
-Lyricist: *Francisco, Manuel V. (b. 1965); [biography](https://hymnology.hymnsam.co.uk/m/manuel-francisco); altered by myself, with AI assistance, on August 21, 2025*  
+Lyricist: *Francisco, Manuel V. (b. 1965); [biography](https://hymnology.hymnsam.co.uk/m/manuel-francisco), altered by myself, with AI assistance, on August 21, 2025*  
 Copyright (text): *from the album and scorebook, Christify, © 2010, Jesuit Music Ministry of Jesuit Communications Foundation, Inc.*  
 Sources used for representative text:
 
