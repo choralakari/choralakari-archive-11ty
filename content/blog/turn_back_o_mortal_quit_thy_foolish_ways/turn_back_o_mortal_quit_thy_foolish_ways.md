@@ -22,7 +22,7 @@ Folder: *Sung in the Philippines and Original Tunes, no. 16*
 Tune used, name: *'Original tune (6445426171)'*  
 Composer: *original tune of mine; composed on December 7, 2022; based on the music notes from the logo of a vocal synth character and a virtual YouTuber, [Ria](https://vocalsynth.fandom.com/wiki/RIA); [character sheet](./Ria.png) [from Twitter/X](https://x.com/riachan_nel/status/1874942776095416522)*  
 Lyricist: *Bax, Clifford (1886–1962); written in 1919; altered by Olmsted, Barbara*  
-Source used for representative text: *from [hymnary.org](https://hymnary.org/hymn/WinS1996/194),Worship in Song: A Friends Hymnal #194*
+Source used for representative text: *from [hymnary.org](https://hymnary.org/hymn/WinS1996/194), Worship in Song: A Friends Hymnal #194*
 
 ---
 
