@@ -68,16 +68,19 @@ earth’s own bounty, fruit of toil and care.
 Take and bless the work our hands have done,  
 make it holy through Your saving Son.  
   
+*2*  
 Sun and moon and wind and rain combine,  
 all creation gathered in the vine.  
 Dreams and labors, hopes of humankind,  
 all we offer now as bread and wine.  
   
+*3*  
 By Your Spirit, change these gifts, O Lord,  
 into Jesus, living bread outpoured.  
 Blessed and broken, given in His name,  
 hearts are healed and hungers not the same.  
   
+*4*  
 Here we taste the feast that shall not cease,  
 here our thirst is stilled with heav’nly peace.  
 Through this banquet, sanctified we live,  
