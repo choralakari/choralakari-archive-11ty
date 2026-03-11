@@ -22,10 +22,10 @@ tags:
 Folder: *Main II, no. 34*  
 Tune used, name: *'Unknown tune (3512323422)'; research in progress*  
 Composer: *research in progress*  
-Lyricist: *Adam, de Saint-Victor (c. 1068–1146); from a Latin cento, Incumdare, plebs fidelis; translation by Campbell, Robert (1814–1868) in 1850*  
+Lyricist: *Adam, de Saint-Victor (c. 1068–1146); from a Latin cento, 'Incumdare, plebs fidelis'; translation by Campbell, Robert (1814–1868) in 1850*  
 Copyright (tune): *assumed public domain*  
 Sources used for tune:
-- *from [a zip file](https://drive.google.com/drive/folders/1rYXAMggS8oQP2oOzfhejnuAMgN1A5z72) [from this Reddit forum](https://www.reddit.com/r/ffxivperformances/comments/u8e9fy/my_midipack_master_midi_for_download_retiring/), "130000_Pop_Rock_Classical_Videogame_EDM_MIDI_Archive\[6_19_15\].zip", including MIDI files with a starting file name of "him\*\*\*.mid"; file name: him28.mid*  
+- *from [a zip file](https://drive.google.com/drive/folders/1rYXAMggS8oQP2oOzfhejnuAMgN1A5z72) [from this Reddit forum](https://www.reddit.com/r/ffxivperformances/comments/u8e9fy/my_midipack_master_midi_for_download_retiring/), "130000 Pop Rock Classical Videogame EDM MIDI Archive\[6 19 15\].zip", including MIDI files with a starting file name of "him\*\*\*.mid"; file name: him28.mid*  
 - *from [this zip file](/others/himno_source.zip), only containing MIDI files with starting filenames of "him\*\*\*.mid" and "himno\*\*\*.mid", saved on this site; file name: him28.mid*  
 
 Source used for representative text: *from [hymnary.org](https://hymnary.org/hymn/CYBER/1045), The Cyber Hymnal #1045*
