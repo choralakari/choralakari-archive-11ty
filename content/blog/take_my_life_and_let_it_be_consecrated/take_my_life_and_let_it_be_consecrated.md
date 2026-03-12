@@ -11,7 +11,7 @@ tags:
   - 2_ key- e flat major or c minor
   - 3_ text title- take my life and let it be consecrated
   - 3_ tune name- hendon
-  - 4_ poetic meter- 7-7-7-7 with a repeat
+  - 4_ poetic meter- 7-7-7-7 trochaic with a repeat
 ---
 
 ---

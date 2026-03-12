@@ -11,7 +11,7 @@ tags:
   - 2_ key- e major or c sharp minor
   - 3_ text title- joy to the world
   - 3_ tune name- richmond or chesterfield
-  - 4_ poetic meter- common meter but stressed in first line_s first syllable
+  - 4_ poetic meter- common meter but stressed on first line_s first syllable
 ---
 
 ---

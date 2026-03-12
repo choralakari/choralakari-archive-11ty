@@ -11,7 +11,7 @@ tags:
   - 2_ key- d major or b minor
   - 3_ text title- o the precious love of jesus
   - 3_ tune name- love feast
-  - 4_ poetic meter- 8-7-8-7 with 4-4-8-4-4-7 refrain
+  - 4_ poetic meter- 8-7-8-7 trochaic with 4-4-8-4-4-7 trochaic refrain
 ---
 
 ---

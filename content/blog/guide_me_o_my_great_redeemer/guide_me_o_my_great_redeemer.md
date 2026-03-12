@@ -11,7 +11,7 @@ tags:
   - 2_ key- f major or d minor
   - 3_ text title- guide me o my great redeemer
   - 3_ tune name- cwm rhondda
-  - 4_ poetic meter- 8-7-8-7-4-7 with repeats
+  - 4_ poetic meter- 8-7-8-7-4-7 trochaic with repeats
 ---
 
 ---
