@@ -9,7 +9,6 @@ tags:
   - 2_ instrumentation- four-part choir
   - 2_ language- english
   - 2_ key- g major or e minor
-  - 2_ song or hymn info- research in progress
   - 3_ text title- mary immaculate star of the morning
   - 3_ tune name- mary immaculate_ vinteres
   - 4_ poetic meter- 11-10-11-10 dactylic with 11-10-11-10 dactylic refrain
@@ -23,7 +22,7 @@ Folder: *Sung in the Philippines and Original Tunes, no. 9*
 Tune used, name: *'Mary Immaculate (Vinteres)'*  
 Composer: *Vinteres, Teofilo (1932–2001)*  
 Lyricist: *Weatherell, F. W. (1829–1903)*  
-Copyright (tune): *research in progress*  
+Copyright (tune): *may be still under copyright due to the composer's lifeline*  
 Sources used for tune and representative text:  
   - *from [baclaranchurch.org](https://www.baclaranchurch.org/assets/novena-music-sheets.pdf)*  
   - *from [a copy of the source above saved on this site](./novena-music-sheets.pdf)*

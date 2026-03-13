@@ -11,7 +11,7 @@ tags:
   - 2_ key- f major or d minor
   - 3_ text title- catholic gospel acclamation_ original tune
   - 3_ tune name- original tune_ 35223522
-  - 4_ poetic meter- not applicable
+  - 4_ poetic meter- irregular
 ---
 
 ---
