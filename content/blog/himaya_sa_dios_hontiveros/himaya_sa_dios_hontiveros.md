@@ -9,7 +9,6 @@ tags:
   - 2_ instrumentation- voice and organ
   - 2_ language- cebuano
   - 2_ key- g flat major or e flat minor
-  - 2_ song or hymn info- research in progress
   - 3_ text title- gloria_ cebuano_ himaya sa dios
   - 3_ tune name- papuri sa diyos_ hontiveros
   - 4_ poetic meter- not applicable
@@ -24,7 +23,6 @@ Tune used, name: *'Papuri sa Diyos (Hontiveros)'*
 Composer: *Hontiveros, Eduardo Jose Pardo (1923–2008)*  
 Lyricist: *from the liturgy (Luke 2:14; John 1:29; Eph. 1:20-21); alterer of the Cebuano Gloria unknown*  
 Copyright (tune): *from the album, Mga Awitin sa Misang Pilipino, © 1999, Jesuit Music Ministry of Jesuit Communications Foundation, Inc.*  
-Copyright (text): *research in progress*  
 Source used for representative text: *from [this attached photo taken in Getafe, Bohol](./IMG_20260102_075915.jpg), which is a text and chords printed on a white folder previously owned by a church organist of Getafe, Frankie R. Lagunay*
 
 ---
