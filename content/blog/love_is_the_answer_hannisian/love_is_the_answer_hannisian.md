@@ -12,7 +12,7 @@ tags:
   - 2_ song or hymn info- research in progress
   - 3_ text title- love is the answer_ hannisian
   - 3_ tune name- love is the answer_ hannisian
-  - 4_ poetic meter- not applicable
+  - 4_ poetic meter- irregular
 ---
 
 ---
