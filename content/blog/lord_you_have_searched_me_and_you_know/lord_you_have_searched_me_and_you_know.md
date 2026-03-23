@@ -1,5 +1,5 @@
 ---
-title: 	Lord, You Have Searched Me, and You Know
+title: Lord, You Have Searched Me, and You Know
 description: Synthesized choral arrangement made with Synthesizer V Studio I and RVC
 date: 2026-03-13
 tags:
