@@ -23,7 +23,7 @@ Tune used, name: *'Third Mode Melody'*
 Composer: *Tallis, Thomas (c. 1505–1585); composed in 1561*  
 Lyricist: *Green, Fred Pratt (1903–2000); written in 1972*  
 Copyright (text): *© 1973, Hope Publishing Company*  
-Source used for representative text: *from [hymnary.org](https://hymnary.org/hymn/LUYH2013/162), Lift Up Your Hearts: psalms, hymns, and spiritual songs #162*
+Source used for representative text: *from [hymnary.org](https://hymnary.org/text/to_mock_your_reign_o_dearest_lord)*
 
 ---
 
@@ -61,21 +61,21 @@ Audio file ([all parts combined](./choir.m4a)):
 
 *1*  
 To mock your reign, O dearest Lord,  
-they made a crown of thorns,  
+they made a crown of thorns;  
 set you with taunts along that road  
 from which no one returns.  
-They could not know, as we do now,  
-how glorious is that crown,  
+They did not know, as we do now,  
+that glorious is your crown;  
 that thorns would flower upon your brow,  
 your sorrows heal our own.  
   
 *2*  
 In mock acclaim, O gracious Lord,  
 they snatched a purple cloak,  
-your passion turned, for all they cared  
-into a soldier’s joke.  
-They could not know, as we do now,  
-that though we merit blame,  
+your passion turned, for all they cared,  
+into a soldier's joke.  
+They did not know, as we do now,  
+that though we merit blame  
 you will your robe of mercy throw  
 around our naked shame.  
   
@@ -84,7 +84,7 @@ A sceptered reed, O patient Lord,
 they thrust into your hand,  
 and acted out their grim charade  
 to its appointed end.  
-They could not know, as we do now,  
+They did not know, as we do now,  
 though empires rise and fall,  
-your kingdom shall not cease to grow  
+your Kingdom shall not cease to grow  
 till love embraces all.
