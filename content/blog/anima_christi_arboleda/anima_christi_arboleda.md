@@ -16,7 +16,7 @@ tags:
 
 ---
 
-### Song Information
+### Hymn Information
 
 Folder: *Voice and Organ Renditions (Eterna Archive), Songs from the Philippines, no. 1*  
 Tune used, name: *'Anima Christi (Arboleda)'*  

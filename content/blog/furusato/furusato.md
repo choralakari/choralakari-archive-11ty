@@ -16,7 +16,7 @@ tags:
 
 ---
 
-### Hymn Information
+### Song Information
 
 Folder: *Miscellaneous Tunes and Secular Songs, no. 25*  
 Tune used, name: *'Furusato'*  
