@@ -1,6 +1,6 @@
 ---
 title: Himaya Sa Dios (Hontiveros' tune)
-description: Voice and Pipe Organ Rendition using Synthesizer V Studio I and Organteq 2 Trial
+description: Voice and pipe organ rendition made with Synthesizer V Studio I and Organteq 2 Trial
 date: 2026-02-07
 tags:
   - 1_ folder- voice and organ renditions eterna archive_ songs from the philippines
