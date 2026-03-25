@@ -9,7 +9,7 @@ tags:
   - 2_ instrumentation- voice and organ
   - 2_ language- english
   - 2_ key- e flat major or c minor
-  - 3_ text title- anima christi_ arboleda
+  - 3_ text title- anima christi
   - 3_ tune name- anima christi_ arboleda
   - 4_ poetic meter- not applicable
 ---

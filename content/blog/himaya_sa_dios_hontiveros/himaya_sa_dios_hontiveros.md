@@ -1,5 +1,5 @@
 ---
-title: Himaya Sa Dios (Hontiveros' tune)
+title: Himaya sa Dios (Hontiveros' tune)
 description: Voice and pipe organ rendition made with Synthesizer V Studio I and Organteq 2 Trial
 date: 2026-02-07
 tags:
