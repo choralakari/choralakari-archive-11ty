@@ -27,6 +27,7 @@ Sources used for tune and representative text:
   - *from [pdfcoffee.com](https://pdfcoffee.com/take-and-receive-satb-pdf-free.html)*
   - *from [scribd.com](https://www.scribd.com/document/435440381/Take-and-Receive-SATB)*
   - *from [a copy of these sources above saved on this site](./toaz.info-take-and-receive-satb-pr_d73a623d94236c952111fd3e3576e52e.pdf)*
+  - *from [Bayan Umawit, 2003 edition, page 188 on this PDF file saved on this site](./pdfcoffee.com_bayan-umawit-songbook-single-pagespdf-pdf-free.pdf)*
 
 ---
 

@@ -10,7 +10,7 @@ tags:
   - 2_ language- english
   - 2_ key- f major or d minor
   - 3_ text title- for the healing of the nations
-  - 3_ tune name- dulce carmen
+  - 3_ tune name- dulce carmen_ 12345432
   - 4_ poetic meter- 8-7-8-7-8-7 trochaic
 ---
 
@@ -19,7 +19,7 @@ tags:
 ### Hymn Information
 
 Folder: *Main IV, no. 47*  
-Tune used, name: *'Dulce Carmen'*  
+Tune used, name: *'Dulce Carmen (12345432)'*  
 Composer: *from An Essay on the Church Plain Chant, published in 1782; often attributed to Haydn, Michael (1737–1806) in 1792*  
 Lyricist: *Kaan, Fred (1929–2009); written in 1965*  
 Copyright (text): *© 1968, Hope Publishing Company*  
