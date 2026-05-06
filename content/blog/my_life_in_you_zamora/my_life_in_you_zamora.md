@@ -61,8 +61,8 @@ When Your hands keep holding me, guiding me, around me.
   
 *Chorus:*  
 God, I know that You are there; You know who I am and all I do.  
-God, You see me through and through; take my hand, I trust in you,  
-I put my life in you.  
+God, You see me through and through; take my hand, I trust in You,  
+I put my life in You.  
   
 *2*  
 You know me when I sit or stand; my life is in Your hand.  
