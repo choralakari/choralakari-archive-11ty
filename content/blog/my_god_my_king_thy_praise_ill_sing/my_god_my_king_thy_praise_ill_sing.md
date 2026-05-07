@@ -35,6 +35,7 @@ Sheet music, project file and MIDI:
 - [Sheet music, MuseScore](./score.mscz)
 - [SynthV Studio project file, zipped](./arr.zip)
 - [MIDI note data](./arr.mid)
+- [MIDI note data, first version of my adaptation](./arr_francisco's_cm.mid)
 
 Audio files (separate parts for [Lead](./part-01.m4a), [Accompaniment I](./part-02.m4a), [Accompaniment II](./part-03.m4a) and [Bass](./part-04.m4a)):  
 <audio controls src="./part-01.m4a">
