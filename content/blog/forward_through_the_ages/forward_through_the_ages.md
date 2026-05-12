@@ -11,7 +11,7 @@ tags:
   - 2_ key- d flat major or b flat minor
   - 3_ text title- forward through the ages
   - 3_ tune name- st_ gertrude
-  - 4_ poetic meter- 6-5-6-5 trochaic doubled with 6-5-6-5 refrain
+  - 4_ poetic meter- 6-5-6-5 trochaic doubled with 6-5-6-5 trochaic refrain
 ---
 
 ---

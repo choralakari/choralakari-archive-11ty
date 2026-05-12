@@ -12,7 +12,7 @@ tags:
   - 2_ song or hymn info- research in progress
   - 3_ text title- welcome happy morning
   - 3_ tune name- unknown tune_ 1767165454312
-  - 4_ poetic meter- 6-5-6-5 trochaic doubled with 6-5-6-5 refrain
+  - 4_ poetic meter- 6-5-6-5 trochaic doubled with 6-5-6-5 trochaic refrain
 ---
 
 ---
