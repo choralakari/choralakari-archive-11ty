@@ -22,7 +22,8 @@ The Synthesizer V Studio I editor and voice libraries are available [here on syn
 
 When a piece of music is too intricate to adapt for a custom four-part choir, its arrangement will be in a format for solo voice and chamber pipe organ using Synthesizer V Studio I and [Organteq 2 Trial](https://www.modartt.com/organteq_overview).  
 Eterna Archive is a sub-project of Choral Akari Archive that gathers my voice and organ renditions, and it also mainly features Christian music.  
-The voice library, which used for the solo voice, is [Yǒngyè Minus AI](https://synthv.me/Singing%20Voice%20Databases/MINUS/). Organ stops used are the following: Flöte 8’ + 4’ for single manual, and Gross Untersatz 32’ + 16’ and Flöte 8’ for pedalboard.
+The voice library, which used for the solo voice, is [Yǒngyè Minus AI](https://synthv.me/Singing%20Voice%20Databases/MINUS/). Organ stops used are the following: Flöte 8’ + 4’ for single manual, and Gross Untersatz 32’ + 16’ and Flöte 8’ for pedalboard.  
+Or you can use [Organteq Alpha](/others/organteq_alpha.zip) alongside [Aeolus’ Bourdon 16’](https://github.com/Archie3d/aeolus_plugin/releases) for the pedals instead.
 
 ---
 
