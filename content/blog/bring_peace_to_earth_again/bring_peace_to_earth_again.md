@@ -11,7 +11,7 @@ tags:
   - 2_ key- a major or f sharp minor
   - 3_ text title- bring peace to earth again
   - 3_ tune name- original tune_ 55671756
-  - 4_ poetic meter- 8-6-8-6-8-6 iambic but stressed on every first syllable from the first five lines
+  - 4_ poetic meter- 8-6-8-6-8-6 iambic but stressed every line_s first syllable
 ---
 
 ---
