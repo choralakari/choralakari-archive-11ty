@@ -3,7 +3,7 @@ title: Jesus Calls Us o'er the Tumult
 description: Synthesized choral arrangement made with Synthesizer V Studio I and RVC
 date: 2026-05-03
 tags:
-  - 1_ folder- sung in the philippines and original tunes
+  - 1_ folder- sung in the philippines and original tunes 1
   - 2_ copyright- public domain_ text
   - 2_ copyright- public domain_ tune
   - 2_ instrumentation- four-part choir
@@ -18,7 +18,7 @@ tags:
 
 ### Hymn Information
 
-Folder: *Sung in the Philippines and Original Tunes, no. 18*  
+Folder: *Sung in the Philippines and Original Tunes I, no. 18*  
 Tune used, name: *'Visayan Flores de Mayo tune'*  
 Composer: *from a traditional Visayan Flores de Mayo tune; adapted by myself on May 6, 2022*  
 Lyricist: *Alexander, Cecil Frances (1818–1895); written in 1852*  

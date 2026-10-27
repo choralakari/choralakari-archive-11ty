@@ -3,7 +3,7 @@ title: Christify (Bukas Palad; altered)
 description: Synthesized choral arrangement made with Synthesizer V Studio I and RVC
 date: 2026-03-09
 tags:
-  - 1_ folder- sung in the philippines and original tunes
+  - 1_ folder- sung in the philippines and original tunes 1
   - 2_ copyright- active_ text
   - 2_ copyright- active_ tune
   - 2_ instrumentation- four-part choir
@@ -18,7 +18,7 @@ tags:
 
 ### Hymn Information
 
-Folder: *Sung in the Philippines and Original Tunes, no. 39*  
+Folder: *Sung in the Philippines and Original Tunes I, no. 39*  
 Tune used, name: *'Original tune (345556543)'*  
 Composer: *original tune of mine; composed on August 21, 2025*  
 Lyricist: *Francisco, Manuel V. (b. 1965); [biography](https://hymnology.hymnsam.co.uk/m/manuel-francisco), altered by myself, with AI assistance, on August 21, 2025*  

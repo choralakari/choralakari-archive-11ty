@@ -3,7 +3,7 @@ title: Come to a Wedding
 description: Synthesized choral arrangement made with Synthesizer V Studio I and RVC
 date: 2026-03-09
 tags:
-  - 1_ folder- sung in the philippines and original tunes
+  - 1_ folder- sung in the philippines and original tunes 1
   - 2_ copyright- active_ text
   - 2_ copyright- active_ tune
   - 2_ instrumentation- four-part choir
@@ -18,7 +18,7 @@ tags:
 
 ### Hymn Information
 
-Folder: *Sung in the Philippines and Original Tunes, no. 52*  
+Folder: *Sung in the Philippines and Original Tunes I, no. 52*  
 Tune used, name: *'Original tune (1765656713)'*  
 Composer: *original tune of mine; composed on November 20, 2022*  
 Lyricist: *Murray, Shirley Erena (1931-2020)*  

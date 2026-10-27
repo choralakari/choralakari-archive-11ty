@@ -3,7 +3,7 @@ title: Turn Back, O Mortal, Quit Thy Foolish Ways
 description: Synthesized choral arrangement made with Synthesizer V Studio I and RVC
 date: 2026-03-08
 tags:
-  - 1_ folder- sung in the philippines and original tunes
+  - 1_ folder- sung in the philippines and original tunes 1
   - 2_ copyright- public domain_ text
   - 2_ copyright- active_ tune
   - 2_ instrumentation- four-part choir
@@ -18,7 +18,7 @@ tags:
 
 ### Hymn Information
 
-Folder: *Sung in the Philippines and Original Tunes, no. 16*  
+Folder: *Sung in the Philippines and Original Tunes I, no. 16*  
 Tune used, name: *'Original tune (6445426171)'*  
 Composer: *original tune of mine; composed on December 7, 2022; based on the music notes from the logo of a vocal synth character and a virtual YouTuber, [Ria](https://vocalsynth.fandom.com/wiki/RIA); [character sheet](./Ria.png) [from Twitter/X](https://x.com/riachan_nel/status/1874942776095416522)*  
 Lyricist: *Bax, Clifford (1886–1962); written in 1919, altered by Olmsted, Barbara*  

@@ -3,7 +3,7 @@ title: Praise, O Praise Our God and King
 description: Synthesized choral arrangement made with Synthesizer V Studio I and RVC
 date: 2026-02-25
 tags:
-  - 1_ folder- sung in the philippines and original tunes
+  - 1_ folder- sung in the philippines and original tunes 1
   - 2_ copyright- public domain_ text
   - 2_ copyright- active_ tune
   - 2_ instrumentation- four-part choir
@@ -18,7 +18,7 @@ tags:
 
 ### Hymn Information
 
-Folder: *Sung in the Philippines and Original Tunes, no. 1*  
+Folder: *Sung in the Philippines and Original Tunes I, no. 1*  
 Tune used, name: *'Original tune (543517615)'*  
 Composer: *original tune of mine; composed on January 20 or 21, 2022; [handwritten sketch](./sketch.jpg)*  
 Lyricist: *Milton, John (1608–1674); written in 1623; adapted by Baker, Henry Williams (1821–1877) in 1861*  

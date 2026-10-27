@@ -3,7 +3,7 @@ title: We Are Coming ("Come to Me," the Father sayeth)
 description: Synthesized choral arrangement made with Synthesizer V Studio I and RVC
 date: 2026-05-12
 tags:
-  - 1_ folder- sung in the philippines and original tunes
+  - 1_ folder- sung in the philippines and original tunes 1
   - 2_ copyright- public domain_ text
   - 2_ copyright- public domain_ tune
   - 2_ instrumentation- four-part choir
@@ -18,7 +18,7 @@ tags:
 
 ### Hymn Information
 
-Folder: *Sung in the Philippines and Original Tunes, no. 62*  
+Folder: *Sung in the Philippines and Original Tunes I, no. 62*  
 Tune used, name: *'Come and Sprinkle (Filipino traditional tune)'*  
 Composer: *traditional tune, likely of Filipino origin*  
 Lyricists:

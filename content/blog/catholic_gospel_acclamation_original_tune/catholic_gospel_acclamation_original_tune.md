@@ -3,7 +3,7 @@ title: Catholic Gospel Acclamation (original tune)
 description: Synthesized choral arrangement made with Synthesizer V Studio I and RVC
 date: 2026-03-13
 tags:
-  - 1_ folder- sung in the philippines and original tunes
+  - 1_ folder- sung in the philippines and original tunes 1
   - 2_ copyright- active_ text
   - 2_ copyright- active_ tune
   - 2_ instrumentation- four-part choir
@@ -18,7 +18,7 @@ tags:
 
 ### Hymn Information
 
-Folder: *Sung in the Philippines and Original Tunes, no. 25*  
+Folder: *Sung in the Philippines and Original Tunes I, no. 25*  
 Tune used, name: *'Original tune (35223522)'*  
 Composer: *original tune of mine; composed on September 11, 2023*  
 Lyricist: *from a lectionary; sample verse from Joel 2:12-13*  

@@ -3,7 +3,7 @@ title: Take and Receive (traditional tune)
 description: Synthesized choral arrangement made with Synthesizer V Studio I and RVC
 date: 2026-02-18
 tags:
-  - 1_ folder- sung in the philippines and original tunes
+  - 1_ folder- sung in the philippines and original tunes 1
   - 2_ copyright- public domain_ text
   - 2_ copyright- public domain_ tune
   - 2_ instrumentation- four-part choir
@@ -19,7 +19,7 @@ tags:
 
 ### Hymn Information
 
-Folder: *Sung in the Philippines and Original Tunes, no. 11*  
+Folder: *Sung in the Philippines and Original Tunes I, no. 11*  
 Tune used, name: *'Take and Receive (traditional tune)'*  
 Composer: *anonymous; research in progress for the original source*  
 Lyricist: *Ignatius, of Loyola, Saint (1491–1556); based on Spiritual Exercises; poetic paraphraser unknown, research in progress for the original source*  

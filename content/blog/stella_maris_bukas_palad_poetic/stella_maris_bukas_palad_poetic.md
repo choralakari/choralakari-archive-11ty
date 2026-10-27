@@ -3,7 +3,7 @@ title: Stella Maris (Bukas Palad; poetic)
 description: Synthesized choral arrangement made with Synthesizer V Studio I and RVC
 date: 2026-03-08
 tags:
-  - 1_ folder- sung in the philippines and original tunes
+  - 1_ folder- sung in the philippines and original tunes 1
   - 2_ copyright- active_ text
   - 2_ copyright- active_ tune
   - 2_ instrumentation- four-part choir
@@ -19,7 +19,7 @@ tags:
 
 ### Hymn Information
 
-Folder: *Sung in the Philippines and Original Tunes, no. 56*  
+Folder: *Sung in the Philippines and Original Tunes I, no. 56*  
 Tune used, name: *'Original tune (6713456)'*  
 Composer: *original tune of mine; composed on January 16, 2026; originally meant to be sung in a tune of Somnias a Luna*  
 Lyricist: *Borres, Silvino, Jr.; poetic English adaptation by myself, with AI assistance, free to alter or revise for everyone, however, the original Filipino text is still copyrighted, adaptation written on January 16, 2026*  

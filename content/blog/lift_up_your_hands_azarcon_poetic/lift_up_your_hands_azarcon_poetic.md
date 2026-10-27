@@ -3,7 +3,7 @@ title: Lift Up Your Hands (Azarcon; poetic)
 description: Synthesized choral arrangement made with Synthesizer V Studio I and RVC
 date: 2026-07-22
 tags:
-  - 1_ folder- sung in the philippines and original tunes
+  - 1_ folder- sung in the philippines and original tunes 1
   - 2_ copyright- active_ text
   - 2_ copyright- active_ tune
   - 2_ instrumentation- four-part choir
@@ -19,7 +19,7 @@ tags:
 
 ### Hymn Information
 
-Folder: *Sung in the Philippines and Original Tunes, no. 63*  
+Folder: *Sung in the Philippines and Original Tunes I, no. 63*  
 Tune used, name: *'Original tune (51765132)'*  
 Composer: *original tune of mine; composed on July 21, 2026*  
 Lyricist: *Azarcon, Cecile; original text written circa 1980 ([source](https://www.pep.ph/pepalerts/cabinet-files/180534/cecille-azarcon-lift-up-your-hands-a734-20240505)); poetic adaptation by myself, with AI assistance, free to alter or revise for everyone, however, the original text is still copyrighted, adaptation written on July 21, 2026*  

@@ -3,7 +3,7 @@ title: On What Has Now Been Sown
 description: Synthesized choral arrangement made with Synthesizer V Studio I and RVC
 date: 2026-04-24
 tags:
-  - 1_ folder- sung in the philippines and original tunes
+  - 1_ folder- sung in the philippines and original tunes 1
   - 2_ copyright- public domain_ text
   - 2_ copyright- active_ tune
   - 2_ instrumentation- four-part choir
@@ -18,7 +18,7 @@ tags:
 
 ### Hymn Information
 
-Folder: *Sung in the Philippines and Original Tunes, no. 60*  
+Folder: *Sung in the Philippines and Original Tunes I, no. 60*  
 Tune used, name: *'Original tune (176543234565)'*  
 Composer: *original tune of mine; composed on April 25, 2022*  
 Lyricist: *Newton, John (1725–1807); written in 1779, altered*  

@@ -3,7 +3,7 @@ title: From Many Grapes (Van de Steen)
 description: Synthesized choral arrangement made with Synthesizer V Studio I and RVC
 date: 2026-02-25
 tags:
-  - 1_ folder- sung in the philippines and original tunes
+  - 1_ folder- sung in the philippines and original tunes 1
   - 2_ copyright- active_ text
   - 2_ copyright- active_ tune
   - 2_ instrumentation- four-part choir
@@ -18,7 +18,7 @@ tags:
 
 ### Hymn Information
 
-Folder: *Sung in the Philippines and Original Tunes, no. 7*  
+Folder: *Sung in the Philippines and Original Tunes I, no. 7*  
 Tune used, name: *'From Many Grapes (Van de Steen)'*  
 Composer and lyricist: *Van de Steen, John Peter Yvonne W. (1920–1987); [biography](https://www.facebook.com/photo/?fbid=365899018196390&set=pcb.365899428196349); [article](https://www.dominusest.ph/post/fr-van-de-steen-s-a-short-mass-for-the-people-launched)*  
 Copyright (tune and text): *© 2022, The Manila Cathedral*  

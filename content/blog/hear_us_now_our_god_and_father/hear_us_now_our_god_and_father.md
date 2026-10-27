@@ -24,7 +24,7 @@ Tune used, name: *'Beecher' or 'Zundel'*
 Composer: *Zundel, John (1815–1882); composed in 1870*  
 Lyricists:
 
-  - *Huxhold, Harry N. (1922–2006); (stanzas 1 and 2)*  
+  - *Huxhold, Harry N. (1922–2006) (stanzas 1 and 2)*  
   - *Newton, John (1725–1807); written in 1779, altered (stanza 3)*  
 
 Copyright (text): *© 1978 Lutheran Book of Worship (stanzas 1 and 2); public domain (stanza 3)*  

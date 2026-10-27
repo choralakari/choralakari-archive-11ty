@@ -3,7 +3,7 @@ title: Praise the Lord, for the Greenness of the Trees
 description: Synthesized choral arrangement made with Synthesizer V Studio I and RVC
 date: 2026-03-06
 tags:
-  - 1_ folder- sung in the philippines and original tunes
+  - 1_ folder- sung in the philippines and original tunes 1
   - 2_ copyright- active_ text
   - 2_ copyright- active_ tune
   - 2_ instrumentation- four-part choir
@@ -18,7 +18,7 @@ tags:
 
 ### Hymn Information
 
-Folder: *Sung in the Philippines and Original Tunes, no. 57*  
+Folder: *Sung in the Philippines and Original Tunes I, no. 57*  
 Tune used, name: *'Original tune (1354322123)'*  
 Composer: *original tune of mine; composed on March 6, 2026; originally sung in a tune of a Japanese folk song, Sakura, Sakura*  
 Lyricist: *Hanaoka, Nobuaki (1946–2011); written in 1980, altered*  

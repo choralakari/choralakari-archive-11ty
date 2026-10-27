@@ -3,7 +3,7 @@ title: Humbly Let Us Voice Our Homage (Tantum Ergo Sacramentum)
 description: Synthesized choral arrangement made with Synthesizer V Studio I and RVC
 date: 2026-04-25
 tags:
-  - 1_ folder- sung in the philippines and original tunes
+  - 1_ folder- sung in the philippines and original tunes 1
   - 2_ copyright- active_ text
   - 2_ copyright- active_ tune
   - 2_ instrumentation- four-part choir
@@ -18,7 +18,7 @@ tags:
 
 ### Hymn Information
 
-Folder: *Sung in the Philippines and Original Tunes, no. 54*  
+Folder: *Sung in the Philippines and Original Tunes I, no. 54*  
 Tune used, name: *'Tantum Ergo (Carreras)'*  
 Composer: *Carreras, Josep Rafael Bulbena (1860–1931)*  
 Lyricist: *Thomas, Aquinas, Saint (1225–1274); translation by Farrell, Melvin Lloyd (1930–1986)*  

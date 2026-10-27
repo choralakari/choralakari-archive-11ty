@@ -3,7 +3,7 @@ title: Have Thine Own Way, Lord
 description: Synthesized choral arrangement made with Synthesizer V Studio I and RVC
 date: 2026-02-18
 tags:
-  - 1_ folder- sung in the philippines and original tunes
+  - 1_ folder- sung in the philippines and original tunes 1
   - 2_ copyright- public domain_ text
   - 2_ copyright- active_ tune
   - 2_ instrumentation- four-part choir
@@ -18,7 +18,7 @@ tags:
 
 ### Hymn Information
 
-Folder: *Sung in the Philippines and Original Tunes, no. 23*  
+Folder: *Sung in the Philippines and Original Tunes I, no. 23*  
 Tune used, name: *'Alleluia (Francisco; Light from Light)'*  
 Composer: *Francisco, Manuel V. (b. 1965); [biography](https://hymnology.hymnsam.co.uk/m/manuel-francisco)*  
 Lyricist: *Pollard, Adelaide A. (1862–1934); written in 1902*  

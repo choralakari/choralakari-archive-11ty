@@ -3,7 +3,7 @@ title: Bring Peace to Earth Again
 description: Synthesized choral arrangement made with Synthesizer V Studio I and RVC
 date: 2026-03-12
 tags:
-  - 1_ folder- sung in the philippines and original tunes
+  - 1_ folder- sung in the philippines and original tunes 1
   - 2_ copyright- active_ text
   - 2_ copyright- active_ tune
   - 2_ instrumentation- four-part choir
@@ -18,7 +18,7 @@ tags:
 
 ### Hymn Information
 
-Folder: *Sung in the Philippines and Original Tunes, no. 58*  
+Folder: *Sung in the Philippines and Original Tunes I, no. 58*  
 Tune used, name: *'Original tune (55671756)'*  
 Composer: *original tune of mine; composed on January 5, 2023*  
 Lyricist: *Stuempfle, Herman G. (1923–2007)*  

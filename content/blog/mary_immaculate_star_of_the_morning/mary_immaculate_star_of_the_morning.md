@@ -3,7 +3,7 @@ title: Mary Immaculate, Star of the Morning
 description: Synthesized choral arrangement made with Synthesizer V Studio I and RVC
 date: 2026-02-23
 tags:
-  - 1_ folder- sung in the philippines and original tunes
+  - 1_ folder- sung in the philippines and original tunes 1
   - 2_ copyright- public domain_ text
   - 2_ copyright- active_ tune
   - 2_ instrumentation- four-part choir
@@ -18,7 +18,7 @@ tags:
 
 ### Hymn Information
 
-Folder: *Sung in the Philippines and Original Tunes, no. 9*  
+Folder: *Sung in the Philippines and Original Tunes I, no. 9*  
 Tune used, name: *'Mary Immaculate (Vinteres)'*  
 Composer: *Vinteres, Teofilo (1932–2001)*  
 Lyricist: *Weatherell, F. W. (1829–1903)*  
