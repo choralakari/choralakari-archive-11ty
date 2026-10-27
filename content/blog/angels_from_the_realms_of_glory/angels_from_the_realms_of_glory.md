@@ -75,8 +75,8 @@ once you sang creation's story,
 now proclaim Messiah's birth:  
   
 *Refrain:*  
-Come and worship, come and worship,  
-worship Christ, the newborn King.  
+Come and worship Christ, the newborn King;
+come and worship Christ, the newborn King.  
   
 *2*  
 Shepherds, in the fields abiding,  
