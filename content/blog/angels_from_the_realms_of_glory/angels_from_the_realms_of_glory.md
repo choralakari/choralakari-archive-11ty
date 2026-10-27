@@ -1,5 +1,5 @@
 ---
-title: Angels From the Realms of Glory
+title: Angels from the Realms of Glory
 description: Synthesized choral arrangement made with Synthesizer V Studio I and RVC
 date: 2026-10-27
 tags:
